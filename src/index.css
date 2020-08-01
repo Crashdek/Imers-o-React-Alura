@@ -4,7 +4,7 @@
 }
 
 :root {
-  --primary: #2A7AE4;
+  --primary: #DB202C;
   --black: #000000;
   --blackLighter: #9E9E9E;
   --grayLight: #F5F5F5;
@@ -29,3 +29,13 @@ a {
   display: flex;
   flex-direction: column;
 } 
+
+::-webkit-scrollbar { 
+  background-color: #141414; 
+  width: 8px;
+}
+
+::-webkit-scrollbar-thumb { 
+  background-color: #DB202C;
+  border-radius: 5px;
+}

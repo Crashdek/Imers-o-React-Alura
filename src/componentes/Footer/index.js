@@ -10,7 +10,12 @@ function Footer() {
         <img className="Logo" src={Logo} alt="Logo ErickFlix" />
       </a>
       <p>
-        Orgulhosamente criado durante a
+        Orgulhosamente criado por
+         {' '}
+        <a href="https://www.linkedin.com/in/erick-bragante/" target="_blank"  rel="noopener noreferrer">
+           @ErickBragante
+        </a><br></br>
+         durante a
         {' '}
         <a href="https://www.alura.com.br/">
           Imersão React da Alura

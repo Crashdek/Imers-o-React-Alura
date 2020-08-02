@@ -2,43 +2,43 @@
   "categorias": [
     {
       "id": 1,
-      "titulo": "Front End",
+      "titulo": "Spacex",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "MARS & BEYOND - The road to making humanity multiplanetary",
+        "url": "https://www.spacex.com/human-spaceflight/mars/"
       }
     },
     {
       "id": 2,
-      "titulo": "Back End",
+      "titulo": "NASA",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "National Aeronautics and Space Administration",
+        "url": "https://www.nasa.gov/"
       }
     },
     {
       "id": 3,
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Northrop Grumman",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/cursos-online-mobile"
+        "text": " Is recognized across the universe as a leader in space",
+        "url": "https://www.northropgrumman.com/"
       }
     },
     {
       "id": 4,
-      "titulo": "Filmes",
+      "titulo": "Centro de Lançamentos de Alcântra - BRASIL",
       "cor": "orange"
     },
     {
       "id": 5,
-      "titulo": "Games",
+      "titulo": "International Space Station",
       "cor": "red",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Is a modular space station (habitable artificial satellite) in low Earth orbit",
+        "url": "https://www.nasa.gov/mission_pages/station/main/index.html"
       }
     }
   ],
@@ -46,152 +46,176 @@
     {
       "id": 1,
       "categoriaId": 1,
-      "titulo": "SEO com React",
-      "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+      "titulo": " “That's one small step for a man, one giant leap for mankind” - Neil Armstrong",
+      "url": "https://www.youtube.com/watch?v=0qo78R_yYFA"
     },
     {
       "id": 2,
       "categoriaId": 1,
-      "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-      "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+      "titulo": "Falcon Heavy & Starman",
+      "url": "https://www.youtube.com/watch?v=A0FZIwabctw"
     },
     {
       "id": 3,
       "categoriaId": 1,
-      "titulo": "Componentização com VanillaJS #AluraMais",
-      "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+      "titulo": "150 Meter Starhopper Test",
+      "url": "https://www.youtube.com/watch?v=bYb3bfA6_sQ"
     },
     {
       "id": 4,
       "categoriaId": 1,
-      "titulo": "Pare de chutar e aprenda a display: inline #01",
-      "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+      "titulo": "Live Views of Starman",
+      "url": "https://www.youtube.com/watch?v=aBr2kKAHN6M"
     },
     {
       "id": 5,
       "categoriaId": 1,
-      "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-      "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+      "titulo": "Starlink Mission",
+      "url": "https://www.youtube.com/watch?v=1KmBDCiL7MU"
     },
     {
       "id": 6,
       "categoriaId": 1,
-      "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-      "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+      "titulo": "Crew Dragon Launch Escape Demonstration",
+      "url": "https://www.youtube.com/watch?v=mhrkdHshb3E"
     },
     {
       "id": 7,
       "categoriaId": 1,
-      "titulo": "Novidades do Angular v9",
-      "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+      "titulo": "The Elon Musk Story 3D Animation",
+      "url": "https://www.youtube.com/watch?v=8Hoe9by0wNc"
     },
     {
       "id": 8,
       "categoriaId": 2,
-      "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-      "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+      "titulo": "NASA Live: Official Stream of NASA TV",
+      "url": "https://www.youtube.com/watch?v=21X5lGlDOfg"
     },
     {
       "id": 9,
       "categoriaId": 2,
-      "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-      "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+      "titulo": "NASA Live: Official Stream of NASA TV's Media Channel",
+      "url": "https://www.youtube.com/watch?v=nA9UZF-SZoQ"
     },
     {
       "id": 10,
       "categoriaId": 2,
-      "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-      "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+      "titulo": "Watch NASA's Perseverance Rover Launch to Mars!",
+      "url": "https://www.youtube.com/watch?v=JIB3JbIIbPU"
     },
     {
       "id": 11,
       "categoriaId": 2,
-      "titulo": "API: Dicionário do Programador",
-      "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+      "titulo": "STS-129 HD Launch",
+      "url": "https://www.youtube.com/watch?v=zsJpUCWfyPE"
     },
     {
       "id": 12,
       "categoriaId": 2,
-      "titulo": "Usando Git Direito",
-      "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+      "titulo": "Launch Recap: NASA and SpaceX fly Astronauts to the Space Station",
+      "url": "https://www.youtube.com/watch?v=22BXPLkyocw"
     },
     {
       "id": 13,
       "categoriaId": 3,
-      "titulo": "Teste de Turing",
-      "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+      "titulo": "Northrop Grumman Antares and Cygnus Launch to the International Space Station",
+      "url": "https://www.youtube.com/watch?v=A5ApQ8k_Gt0"
     },
     {
       "id": 14,
       "categoriaId": 3,
-      "titulo": "O que é Data Science?",
-      "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+      "titulo": "Northrop Grumman Cygnus Cargo Launch to the Space Station",
+      "url": "https://www.youtube.com/watch?v=P9Nlo4GColU"
     },
     {
       "id": 15,
       "categoriaId": 3,
-      "titulo": "Melhor forma de aprender Python",
-      "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+      "titulo": "Antares launches Cygnus NG-12 to the Space Station",
+      "url": "https://www.youtube.com/watch?v=dk8lNKVw-Xo"
     },
     {
       "id": 16,
       "categoriaId": 3,
-      "titulo": "Como ingressar no mercado de Data Science?",
-      "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
-    },
-    {
-      "id": 17,
-      "categoriaId": 4,
-      "titulo": "Interestellar",
-      "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+      "titulo": "Launch of Northrop Grumman CRS-12 Mission: Cygnus Delivers Cargo to International Space Station",
+      "url": "https://www.youtube.com/watch?v=yWZKQ73aGrg"
     },
     {
       "id": 18,
       "categoriaId": 4,
-      "titulo": "Gattaca",
-      "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
-    },
-    {
-      "id": 19,
-      "categoriaId": 4,
-      "titulo": "A Chegada",
-      "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+      "titulo": "Foguete é lançado da base de Alcântara",
+      "url": "https://www.youtube.com/watch?v=5EC_M9gXAuc"
     },
     {
       "id": 20,
       "categoriaId": 4,
-      "titulo": "Feitiço do Tempo",
-      "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+      "titulo": "Brazilian Rocket Launch - Lançamento do Foguete VLS",
+      "url": "https://www.youtube.com/watch?v=KJeTW-laTa4"
     },
     {
       "id": 21,
       "categoriaId": 5,
-      "titulo": "Final Fantasy 7",
-      "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+      "titulo": "Comet NEOWISE from ISS [ 4K ]",
+      "url": "https://www.youtube.com/watch?v=Yh1_wHdUx3Y&t=309s"
     },
     {
       "id": 22,
       "categoriaId": 5,
-      "titulo": "Assassins Creed Valhalla",
-      "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+      "titulo": "ORBIT - A Journey Around Earth in Real Time [ 4K Remastered ]",
+      "url": "https://www.youtube.com/watch?v=7KXGZAEWzn0"
     },
     {
       "id": 23,
       "categoriaId": 5,
-      "titulo": "God of War 4",
-      "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+      "titulo": "Nocturne - Earth at Night [ 4k ]",
+      "url": "https://www.youtube.com/watch?v=8gPzIKe92-M"
     },
     {
       "id": 24,
       "categoriaId": 5,
-      "titulo": "Resident Evil 8",
-      "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+      "titulo": "Earth Views: Earth From Space Seen From The ISS",
+      "url": "https://www.youtube.com/watch?v=XBPjVzSoepo"
     },
     {
-      "titulo": "jurema",
-      "url": "https://www.youtube.com/watch?v=hUVkVSNYbtA",
-      "categoriaId": 4,
-      "id": 25
+      "id": 25,
+      "categoriaId": 2,
+      "titulo": "Welcome Back! Discovery Lands Safely at Kennedy",
+      "url": "https://www.youtube.com/watch?v=22-Ji8_kDwg"
+    },
+    {
+      "id": 26,
+      "categoriaId": 3,
+      "titulo": "OmegA: Northrop Grumman’s New Large-Class Rocket",
+      "url": "https://www.youtube.com/watch?v=rZc8SktOz7E"
+    },
+    {
+      "id": 27,
+      "categoriaId": 3,
+      "titulo": "Northrop Grumman Minotaur IV rocket launches NROL-129 spy sat (15 July 2020)",
+      "url": "https://www.youtube.com/watch?v=xrC4tR_bTqo"
+    },
+    {
+      "id": 28,
+      "categoriaId": 1,
+      "titulo": "SpaceX: Falcon Heavy - Full Launch (T-45 seconds till end)",
+      "url": "https://www.youtube.com/watch?v=BBA7su98v3Y"
+    },
+    {
+      "id": 29,
+      "categoriaId": 5,
+      "titulo": "NASA Astronauts Space Walk Outside the ISS",
+      "url": "https://www.youtube.com/watch?v=AmrrSfiMxGA"
+    },
+    {
+      "id": 30,
+      "categoriaId": 5,
+      "titulo": "WATCH: Astronaut Spacewalk Earth Views from NASA FEED #EarthfromSpace",
+      "url": "https://www.youtube.com/watch?v=EXkwYTNfCKg"
+    },
+    {
+      "id": 31,
+      "categoriaId": 5,
+      "titulo": "Space Station Fisheye Fly-Through 4K (Ultra HD)",
+      "url": "https://www.youtube.com/watch?v=DhmdyQdu96M"
     }
   ]
 }

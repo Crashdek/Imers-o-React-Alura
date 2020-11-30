@@ -19,7 +19,7 @@ function Home() {
 
   return (
     <PageDefault paddingAll={0}>
-     {initialValues.length === 0 && (<div>Será que deu ruim irmão?</div>)}
+     {initialValues.length === 0 && (<div>Carregando...</div>)}
 
       {initialValues.map((categoria, indice) => {
         if (indice === 0) {
